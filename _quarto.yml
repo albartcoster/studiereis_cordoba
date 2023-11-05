@@ -6,7 +6,7 @@ website:
   title: "Studiereis Dairyconsult" 
   site-url: "https://albartcoster.github.io/studiereis_cordoba/" 
   repo-url: https://github.com/albartcoster/studiereis_cordoba
-  repo-actions: [edit] ## ,issue
+  repo-actions: [edit] ## ,issue3
   
   page-footer:
     right: "Pagina gemaakt met plezier en met [Quarto](https://quarto.org/)."
@@ -55,6 +55,8 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
+    email-obfuscation: references
+    link-external-icon: false
 
 
 filters:
