@@ -18,7 +18,7 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://www.dairyconsult.nl/
+        href: https://albartcoster.github.io/studiereis_cordoba
         text: "Dairyconsult.nl"
       - icon: github
         href: https://github.com/albartcoster/studiereis_cordoba
