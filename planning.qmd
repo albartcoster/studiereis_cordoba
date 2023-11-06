@@ -37,4 +37,4 @@ title: "Planning en contactgegevens"
 |Jaap van Zwieten | <jaap@dairyconsult.nl> | +31 626426483 |
 |Albart Coster | <albart@dairyconsult.nl> | +31.642402923 | 
 |Hotel Conquistador| [www.eurostarshotels.nl/eurostars-conquistador.html](https://www.eurostarshotels.nl/eurostars-conquistador.html) | +34 957481102 | 
-|Autacares Alcántara | [www.autocaresalcantara.com](https://www.autocaresalcantara.com) | +34 957 429 130 |
+|Autocares Alcántara | [www.autocaresalcantara.com](https://www.autocaresalcantara.com) | +34 957 429 130 |

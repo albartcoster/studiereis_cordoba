@@ -1,2 +1,2 @@
-# quarto-site-template
-Example quarto site without R !
+# Site for a trip with our clients to Spain, Córdoba
+Made with R and Quarto, using the example and explanation of https://openscapes.github.io/quarto-website-tutorial/
