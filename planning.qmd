@@ -2,34 +2,51 @@
 title: "Planning en contactgegevens"
 ---
 
-## Planning {#planning}
+# Planning {#planning}
 
-| Datum | Tijd | Plaats |  |
-| --- | --- | --- | --- |
-|13-11 | 9:50 | Schiphol | Vertrek vlucht KL 1701 uit NL |
-| | 11:45 | Berlin Schönefeld | Vertrek vlucht I23677 uit DE | 
-| | 12:00 | Madrid Barajas | Aankomst vlucht KL 1701 |
-| | 14:30 | Madrid Plaza de Atocha | Vertrek AVE Plaza de Atocha naar Córdoba | 
-| | 15:00 | Madrid Barajas | Aankomst vlucht I23677 uit DE |
-| | 16:30 | Córdoba | Aankomst mensen uit NL | 
-| | 17:00 | Madrid Plaza de Atocha | Vetrek met AVE naar Córdoba | 
-| | 19:00 | Córdoba | Aankomst mensen uit DE | 
-| | 21:00 | Córdoba, Hotel Conquistador | Gezamenlijk diner |
-| | | |
-|14-11 | 7:30 | Hotel Conquistador | Ontbijt |
-| | 8:30 | Hotel Conquistador | Vertrek met bus naar COVAP|
-| | 18:00 | Hotel Conquistador | Terugkeer |
-| | 19:00 | Córdoba | Rondleiding door stad onder leiding van Berend Coster |
-| | 20:00 + | Córdoba | Vrij programma |
-|15-11 | 7:30 | Hotel Conquistador | Ontbijt | 
-| | 8:30 | Hotel Conquistador | Vertrek met bus |
-| | 19:00 | Córdoba | Gezamenlijk diner in Córdoba | 
-|16-11 | 7:00 + | Hotel Conquistador | Ontbijt |
-| | 9:00| Treinstation Córdoba|  Vertrek mensen naar NL | 
-| | 10:00|Treinstation Córdoba|  Vertrek mensen naar DE | 
+## 13-11
+| Tijd | Plaats |  |
+| --- | --- | --- |
+| 9:50 | Schiphol | Vertrek vlucht KL 1701 uit NL |
+| 11:45 | Berlin Schönefeld | Vertrek vlucht I23677 uit DE | 
+| 12:00 | Madrid Barajas | Aankomst vlucht KL 1701 |
+| 14:30 | Madrid Plaza de Atocha | Vertrek AVE Plaza de Atocha naar Córdoba | 
+| 15:00 | Madrid Barajas | Aankomst vlucht I23677 uit DE |
+| 16:30 | Córdoba | Aankomst mensen uit NL | 
+| 17:00 | Madrid Plaza de Atocha | Vetrek met AVE naar Córdoba | 
+| 19:00 | Córdoba | Aankomst mensen uit DE | 
+| 21:00 | Córdoba, Hotel Conquistador | Gezamenlijk diner |
 
 
-## Contactgegevens {#cgegevens}
+## 14-11
+| Tijd | Plaats |  |
+| --- | --- | --- |
+| 7:30 | Hotel Conquistador | Ontbijt |
+| 8:30 | Hotel Conquistador | Vertrek met bus naar COVAP|
+| 18:00 | Hotel Conquistador | Terugkeer |
+| 19:00 | Córdoba | Rondleiding door stad onder leiding van Berend Coster |
+| 20:00 + | Córdoba | Vrij programma |
+
+## 15-11
+| Tijd | Plaats |  |
+| --- | --- | --- |
+| 7:30 | Hotel Conquistador | Ontbijt | 
+| 8:30 | Hotel Conquistador | Vertrek met bus |
+| 19:00 | Córdoba | Gezamenlijk diner in Córdoba | 
+
+## 16-11
+| Tijd | Plaats |  |
+| --- | --- | --- |
+| 7:00 + | Hotel Conquistador | Ontbijt |
+| 9:00| Treinstation Córdoba|  Vertrek mensen naar NL | 
+| 10:00|Treinstation Córdoba|  Vertrek mensen naar DE |
+| 13:30 | Madrid Barajas | Vertrek vlucht naar NL |
+| 15:40 | Schiphol | Aankomst vlucht naar NL |
+| 15:55 | Madrid Barajas | Vertrek vlucht naar Berlin Schönefeld | 
+| 19:00 | Berlin Schönefeld | Aankomst vlucht naar Berlin |
+
+
+# Contactgegevens {#cgegevens}
 
 |  |  |  |
 |--|---|---|
