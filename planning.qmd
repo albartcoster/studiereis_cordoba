@@ -48,10 +48,10 @@ title: "Planning en contactgegevens"
 | 7:00 + | Hotel Conquistador | Ontbijt |
 | 9:00| Treinstation Córdoba|  Vertrek mensen naar NL | 
 | 10:00|Treinstation Córdoba|  Vertrek mensen naar DE |
-| 13:30 | Madrid Barajas | Vertrek vlucht naar NL |
-| 15:40 | Schiphol | Aankomst vlucht naar NL |
-| 15:55 | Madrid Barajas | Vertrek vlucht naar Berlin Schönefeld | 
-| 19:00 | Berlin Schönefeld | Aankomst vlucht naar Berlin |
+| 13:30 | Madrid Barajas | Vertrek vlucht KL1702 naar NL |
+| 15:40 | Schiphol | Aankomst vlucht KL1702 naar NL |
+| 15:55 | Madrid Barajas | Vertrek vlucht vuelo I23672 naar Berlin Schönefeld | 
+| 19:00 | Berlin Schönefeld | Aankomst vlucht I23672 naar Berlin |
 
 
 # Contactgegevens {#cgegevens}
