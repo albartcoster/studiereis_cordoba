@@ -29,13 +29,15 @@ website:
     collapse-level: 1
     contents:
       - href: index.qmd
-        text: Welkom
+        text: Welkom/Bienvenida
       - href: cordoba.qmd
         text: Info over gebied
       - href: planning.qmd
         text: Planning van de reis
+      - href: planning_ES.qmd
+        text: Plánning del viaje
       - href: deelnemers/deelnemers.qmd
-        text: Deelnemerslijst
+        text: Deelnemerslijst/ Participantes
       
       #- section: quarto-workflows/index.qmd
       #  contents: 

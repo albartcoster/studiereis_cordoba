@@ -23,6 +23,10 @@ title: "Planning en contactgegevens"
 | --- | --- | --- |
 | 7:30 | Hotel Conquistador | Ontbijt |
 | 8:30 | Hotel Conquistador | Vertrek met bus naar COVAP|
+| 9:30 | COVAP | Aankomst |
+| 9:30 - 13:30 | Bezoek COVAP | 
+| 13:30 | COVAP| Lunch |
+| 15:00 | Granja Noriega | Vleesvee en varkensbedrijf|
 | 18:00 | Hotel Conquistador | Terugkeer |
 | 19:00 | Córdoba | Rondleiding door stad onder leiding van Berend Coster |
 | 20:00 + | Córdoba | Vrij programma |
@@ -31,7 +35,11 @@ title: "Planning en contactgegevens"
 | Tijd | Plaats |  |
 | --- | --- | --- |
 | 7:30 | Hotel Conquistador | Ontbijt | 
-| 8:30 | Hotel Conquistador | Vertrek met bus |
+| 9:00 | Hotel Conquistador | Vertrek met bus |
+| 10:00 | Ganadería Jesus López | [Melkveebedrijf](https://maps.app.goo.gl/XZL4FxoajgX6ZTjm7) |
+|11:30 | Hermanos Pizarro | [Melkveebedrijf](https://maps.app.goo.gl/6zpwsDxNax8G8XWo9) |
+|14:15 | Pozoblanco | Lunch |
+|16:00 | Torronteras | Melkveebedrijf |
 | 19:00 | Córdoba | Gezamenlijk diner in Córdoba | 
 
 ## 16-11
