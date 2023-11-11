@@ -49,9 +49,9 @@ title: "Plánning y contacto"
 | 7:00 + | Hotel Conquistador | Desayuno |
 | 9:00| Estación Córdoba|  Salida gente NL | 
 | 10:00|Estación Córdoba|  Salida gente DE |
-| 13:30 | Madrid Barajas | Salida vuelo a NL |
-| 15:40 | Schiphol | Llegada NL |
-| 15:55 | Madrid Barajas | Salida vuelo Berlin Schönefeld | 
+| 13:30 | Madrid Barajas | Salida vuelo KL1702 a NL |
+| 15:40 | Schiphol | Llegada vuelo KL1702 NL |
+| 15:55 | Madrid Barajas | Salida vuelo I23672 a Berlin Schönefeld | 
 | 19:00 | Berlin Schönefeld | Llegada  Berlin |
 
 
