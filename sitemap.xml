@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://albartcoster.github.io/studiereis_cordoba/cordoba.html</loc>
-    <lastmod>2023-11-11T20:36:53.494Z</lastmod>
+    <lastmod>2023-11-11T21:49:13.518Z</lastmod>
   </url>
   <url>
-    <loc>https://albartcoster.github.io/studiereis_cordoba/deelnemers/deelnemers.html</loc>
-    <lastmod>2023-11-11T20:36:52.526Z</lastmod>
-  </url>
-  <url>
-    <loc>https://albartcoster.github.io/studiereis_cordoba/planning.html</loc>
-    <lastmod>2023-11-11T20:36:50.166Z</lastmod>
+    <loc>https://albartcoster.github.io/studiereis_cordoba/cordoba_ES.html</loc>
+    <lastmod>2023-11-11T21:49:12.518Z</lastmod>
   </url>
   <url>
     <loc>https://albartcoster.github.io/studiereis_cordoba/index.html</loc>
-    <lastmod>2023-11-11T20:36:52.202Z</lastmod>
+    <lastmod>2023-11-11T21:49:11.706Z</lastmod>
+  </url>
+  <url>
+    <loc>https://albartcoster.github.io/studiereis_cordoba/planning.html</loc>
+    <lastmod>2023-11-11T21:49:09.682Z</lastmod>
+  </url>
+  <url>
+    <loc>https://albartcoster.github.io/studiereis_cordoba/deelnemers/deelnemers.html</loc>
+    <lastmod>2023-11-11T21:49:12.026Z</lastmod>
   </url>
   <url>
     <loc>https://albartcoster.github.io/studiereis_cordoba/planning_ES.html</loc>
-    <lastmod>2023-11-11T20:36:53.034Z</lastmod>
+    <lastmod>2023-11-11T21:49:13.034Z</lastmod>
   </url>
 </urlset>
